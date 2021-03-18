@@ -55,7 +55,7 @@ class Game:
         # Checks if anyone won to end the game
         if self.winCheck(self.board)[0]:
             self.printBoard()
-            print("Player won!")
+            print("The player won!")
             self.endGame = True
             return 0
                 
@@ -87,7 +87,7 @@ class Game:
         # Checks if anyone won to end the game
         if self.winCheck(self.board)[0]:
             self.printBoard()
-            print("Computer won!")
+            print("The computer won!")
             self.endGame = True
             return 0
                 
