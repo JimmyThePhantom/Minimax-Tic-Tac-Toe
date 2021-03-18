@@ -1,8 +1,8 @@
 # Minimax-Tic-Tac-Toe
 
-This project is a tic tac toe made in the python programming language using the minimax algorithm.
+This project is a tic tac toe made in the Python Programming Language using the Minimax Algorithm.
 
-To open the game, download the 2 files and run "main.py".
+To open the game, download the 2 python files and run "main.py".
 
 You will should see the current tic tac toe board (which, in this case, should be empty) and a prompt asking you to enter a number.
 
