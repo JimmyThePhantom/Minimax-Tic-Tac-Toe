@@ -17,4 +17,4 @@ Each number corresponds to a specific place in the board:
 Enter the number you want and wait for the opponent to play. After that, the game continues in the same way.
 The game ends when one of the players win or there is a tie. The results of the game will be printed out in the console.
 
-Based on: https://github.com/javacodingcommunity/TicTacToeAI-with-Minimax
+Inspired by: https://github.com/javacodingcommunity/TicTacToeAI-with-Minimax
